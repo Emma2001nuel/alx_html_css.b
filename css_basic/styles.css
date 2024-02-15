@@ -1,0 +1,22 @@
+body {
+    display: flex 
+
+
+
+}
+
+main {
+    height: 50vh;
+    width: 50px;
+    
+}
+article {
+    overflow-y:
+    flex: 2
+
+}
+aside {
+    overflow-y:
+    flex: 1
+
+}
